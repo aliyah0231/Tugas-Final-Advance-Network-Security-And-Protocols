@@ -13,7 +13,7 @@ Klik untuk membuka laporan lengkap:
 
 ## 📁 Dokumentasi Pengujian
 Klik untuk melihat dokumentasi berupa screenshot instalasi, konfigurasi, dan hasil simulasi serangan:
-- 👉 [Folder Dokumentasi](Dokumentasi)
+- 👉 [Folder Dokumentasi](Documentasi)
 
 ---
 
