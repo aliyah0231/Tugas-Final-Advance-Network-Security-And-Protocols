@@ -7,7 +7,7 @@ Repository ini berisi **laporan akhir dan dokumentasi** tugas mata kuliah **Adva
 
 ## 📄 Laporan
 Klik untuk membuka laporan lengkap:
-- 👉 [Laporan Final (PDF)](Laporan_Advance_Network_Security_And_Protocols.pdf)
+- 👉 [Laporan Final (PDF)](Laporan-Advance-Network-Security-And-Protocols.pdf)
 
 ---
 
